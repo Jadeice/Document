@@ -1,7 +1,7 @@
 # Getech #
 ## 1. [Butterknife](http://jakewharton.github.io/butterknife/) ##
 
-#### 版本8.*以后的使用方法 ####
+- **版本8 以后的使用方法**
 
 - Project build.gradle
 
@@ -34,6 +34,4 @@
 
 
 ## 2.  ##
-> 哈哈
-> 哈哈
 
